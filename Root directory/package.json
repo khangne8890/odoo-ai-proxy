@@ -1,0 +1,10 @@
+JSON
+{
+ "name": "odoo-ai-proxy",
+ "version": "1.0.0",
+ "description": "Proxy for Odoo Chatbot to secure OpenAI API key.",
+ "main": "netlify/functions/hr-assistant.js",
+ "dependencies": {
+ "node-fetch": "^2.6.7"
+ }
+}
